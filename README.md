@@ -1,1 +1,3 @@
-This repository contains a collection of codes for data cleaning, analysis, and machine learning tasks. It includes scripts for importing, preprocessing, and cleaning datasets, as well as implementing various machine learning and deep learning techniques. The code is designed to help in building predictive models and performing comprehensive data analysis for different business and research applications. Each script is well-documented and structured to be easily adaptable for use on different datasets.
+This repository provides well-documented scripts for AI, machine learning, and deep learning, covering data importing, cleaning, preprocessing, and predictive modeling. It is designed for educational and research purposes to facilitate comprehensive data analysis across various datasets.
+
+⚠️ Note: This repository is intended for educational purposes only and is not meant for production use.
